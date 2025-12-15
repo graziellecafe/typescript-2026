@@ -1,1 +1,1 @@
-# typescript-2026
+# 📓 Typescript 2026
